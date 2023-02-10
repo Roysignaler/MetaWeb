@@ -1,9 +1,21 @@
 {
-    "name": "Card 2023 #2",
+    "name": "METAWEB Card 2023 #2",
     "description": "Exclusive card for NFT journeyseekers. Probably Nothing",
-    "image": "https://ipfs.io/ipfs/QmY5KNxAVS8ePwkPEe1rDHyswzopk3mALb6Uxp8PkQqXDY",
-    "properties": {
-        "rarity": "Could become a bit rare",
-        "class": "2023"
+    "animation_url": "https://ipfs.io/ipfs/QmagCB5VxMLoDueuaAAd1Q1ASGNPkS6HHY73yZygR1aUQS"
+    ,
+    "attributes": [
+    {
+      "trait_type": "Rarity", 
+      "value": "Could become a bit rare"
+    }, 
+    {
+      "trait_type": "Issued", 
+      "value": "2023"
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
     }
+  ]
 }
